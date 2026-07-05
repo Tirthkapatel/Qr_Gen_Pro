@@ -1,4 +1,4 @@
-# QR CodeCraze 🚀
+# QR Gen_Pro 🚀
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,11 +35,11 @@ Since this is a client-side web application, no complex installation or server s
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/QR_CodeCraze.git
+   git clone https://github.com/Tirthkapatel/Qr_Gen_Pro.git
    ```
 2. **Navigate to the directory:**
    ```bash
-   cd QR_CodeCraze
+   cd Qr_Gen_Pro
    ```
 3. **Run the app:**
    Simply double-click on `index.html` to open it in your favorite web browser.
@@ -50,7 +50,7 @@ Since this is a client-side web application, no complex installation or server s
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/QR_CodeCraze/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Tirthkapatel/Qr_Gen_Pro/issues).
 
 ## 📄 License
 
