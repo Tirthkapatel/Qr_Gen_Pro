@@ -1,4 +1,4 @@
-# QR Gen_Pro 🚀
+# QR CodeCraze 🚀
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,22 +35,32 @@ Since this is a client-side web application, no complex installation or server s
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Tirthkapatel/Qr_Gen_Pro.git
+   git clone https://github.com/your-username/QR_CodeCraze.git
    ```
 2. **Navigate to the directory:**
    ```bash
-   cd Qr_Gen_Pro
+   cd QR_CodeCraze
    ```
 3. **Run the app:**
    Simply double-click on `index.html` to open it in your favorite web browser.
 
 ## 📸 Screenshots
 
-*(You can add screenshots of your app's light and dark mode here to make the README look even better!)*
+Here is a glimpse of the application's interface:
+
+### 1. Light Mode UI
+![Light Mode UI](images/light-mode.png)
+
+### 2. Customizing Colors
+![Color Picker](images/color-picker.png)
+
+### 3. Dark Mode UI
+![Dark Mode UI](images/dark-mode.png)
+
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Tirthkapatel/Qr_Gen_Pro/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/QR_CodeCraze/issues).
 
 ## 📄 License
 
